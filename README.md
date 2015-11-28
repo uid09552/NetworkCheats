@@ -19,3 +19,4 @@ dig -f input.txt +noall +answer
 # netcat
 
 nc -l -p "Port"
+http://lzone.de/cheat-sheet/Linux-Networking
